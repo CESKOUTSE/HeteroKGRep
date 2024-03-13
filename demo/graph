@@ -1,0 +1,45 @@
+Dyspnea Lung diseases {'attrs': {'relation': 0, 'similarity': 0.6266951775221132, 'label': 1}}
+Dyspnea Epileptic drop attack {'attrs': {'relation': 1, 'similarity': 0.8133475887610566, 'label': 1}}
+Dyspnea Hyperbilirubinemia {'attrs': {'relation': 2, 'similarity': 0.7041629275170906, 'label': 1}}
+Dyspnea pneumonia {'attrs': {'relation': 3, 'similarity': 0.6266951775221132, 'label': 1}}
+Lung diseases pneumonia {'attrs': {'relation': 12, 'similarity': 0.8133475887610566, 'label': 1}}
+Epileptic drop attack Hyperbilirubinemia {'attrs': {'relation': 13, 'similarity': 0.7041629275170906, 'label': 1}}
+Epileptic drop attack Optic Neuritis {'attrs': {'relation': 14, 'similarity': 0.8133475887610566, 'label': 1}}
+pneumonia Urinary tract infection {'attrs': {'relation': 11, 'similarity': 0.7041629275170906, 'label': 1}}
+pneumonia gingivitis {'attrs': {'relation': 16, 'similarity': 0.7041629275170906, 'label': 1}}
+hypertriglyceridemia hypocalcemia {'attrs': {'relation': 4, 'similarity': 0.7041629275170906, 'label': 1}}
+Endometrial Carcinoma Urinary tract infection {'attrs': {'relation': 5, 'similarity': 0.5666065223658278, 'label': 1}}
+Endometrial Carcinoma Wilm's tumor {'attrs': {'relation': 6, 'similarity': 0.8133475887610566, 'label': 1}}
+Urinary tract infection gingivitis {'attrs': {'relation': 9, 'similarity': 0.7041629275170906, 'label': 1}}
+Urinary tract infection Wilm's tumor {'attrs': {'relation': 10, 'similarity': 0.8133475887610566, 'label': 1}}
+Wilm's tumor neuroblastoma {'attrs': {'relation': 17, 'similarity': 0.5666065223658278, 'label': 1}}
+Wilm's tumor Adenocarcinoma {'attrs': {'relation': 7, 'similarity': 0.5666065223658278, 'label': 1}}
+Adenocarcinoma neuroblastoma {'attrs': {'relation': 8, 'similarity': 0.8133475887610566, 'label': 1}}
+Optic Neuritis Iridocyclitis {'attrs': {'relation': 15, 'similarity': 0.7041629275170906, 'label': 1}}
+rupatadine doxofylline {'attrs': {'relation': 18, 'similarity': 0.6653996423796518, 'label': 2}}
+rupatadine cyproheptadine {'attrs': {'relation': 19, 'similarity': 0.8326998211898259, 'label': 2}}
+doxofylline cyproheptadine {'attrs': {'relation': 20, 'similarity': 0.6653996423796518, 'label': 2}}
+penicillin-v-potassium amoxicillin {'attrs': {'relation': 21, 'similarity': 0.8326998211898259, 'label': 2}}
+amoxicillin esomeprazole {'attrs': {'relation': 22, 'similarity': 0.8326998211898259, 'label': 2}}
+amoxicillin pantoprazole {'attrs': {'relation': 23, 'similarity': 0.8326998211898259, 'label': 2}}
+esomeprazole glucosamine {'attrs': {'relation': 31, 'similarity': 0.8326998211898259, 'label': 2}}
+esomeprazole pantoprazole {'attrs': {'relation': 32, 'similarity': 0.8326998211898259, 'label': 2}}
+dacarbazine Anakinra {'attrs': {'relation': 24, 'similarity': 0.6653996423796518, 'label': 2}}
+dacarbazine ruxolitinib {'attrs': {'relation': 25, 'similarity': 0.7348354902219298, 'label': 2}}
+dacarbazine vincristine {'attrs': {'relation': 26, 'similarity': 0.7348354902219298, 'label': 2}}
+Anakinra ruxolitinib {'attrs': {'relation': 42, 'similarity': 0.6653996423796518, 'label': 2}}
+Anakinra vincristine {'attrs': {'relation': 43, 'similarity': 0.6653996423796518, 'label': 2}}
+ruxolitinib vincristine {'attrs': {'relation': 44, 'similarity': 0.7348354902219298, 'label': 2}}
+dorzolamide ofloxacin {'attrs': {'relation': 27, 'similarity': 0.8326998211898259, 'label': 2}}
+niacin gemfibrozil {'attrs': {'relation': 28, 'similarity': 0.7348354902219298, 'label': 2}}
+niacin prazosin {'attrs': {'relation': 29, 'similarity': 0.5303290195561403, 'label': 2}}
+gemfibrozil prazosin {'attrs': {'relation': 30, 'similarity': 0.5303290195561403, 'label': 2}}
+ciclopirox Acetohydroxamic Acid {'attrs': {'relation': 33, 'similarity': 0.7348354902219298, 'label': 2}}
+ciclopirox Phenazopyridine {'attrs': {'relation': 34, 'similarity': 0.7348354902219298, 'label': 2}}
+Acetohydroxamic Acid Phenazopyridine {'attrs': {'relation': 38, 'similarity': 0.8326998211898259, 'label': 2}}
+trazodone diflunisal {'attrs': {'relation': 35, 'similarity': 0.6115410145409773, 'label': 2}}
+trazodone levetiracetam {'attrs': {'relation': 36, 'similarity': 0.6115410145409773, 'label': 2}}
+trazodone Hydromorphone {'attrs': {'relation': 37, 'similarity': 0.6115410145409773, 'label': 2}}
+diflunisal levetiracetam {'attrs': {'relation': 39, 'similarity': 0.6115410145409773, 'label': 2}}
+diflunisal Hydromorphone {'attrs': {'relation': 40, 'similarity': 0.7348354902219298, 'label': 2}}
+levetiracetam Hydromorphone {'attrs': {'relation': 41, 'similarity': 0.6115410145409773, 'label': 2}}

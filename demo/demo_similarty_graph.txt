@@ -1,0 +1,47 @@
+Dyspnea	Lung diseases	1	0.6266951775221132	0
+Dyspnea	Epileptic drop attack	1	0.8133475887610566	1
+Dyspnea	Hyperbilirubinemia	1	0.7041629275170906	2
+Dyspnea	pneumonia	1	0.6266951775221132	3
+hypertriglyceridemia	hypocalcemia	1	0.7041629275170906	4
+Endometrial Carcinoma	Adenocarcinoma	1	0.44004276628316996	5
+Endometrial Carcinoma	Urinary tract infection	1	0.5666065223658278	6
+Endometrial Carcinoma	Wilm's tumor	1	0.8133475887610566	7
+Endometrial Carcinoma	neuroblastoma	1	0.44004276628316996	8
+Adenocarcinoma	Wilm's tumor	1	0.5666065223658278	9
+Adenocarcinoma	neuroblastoma	1	0.8133475887610566	10
+Urinary tract infection	gingivitis	1	0.7041629275170906	11
+Urinary tract infection	Wilm's tumor	1	0.8133475887610566	12
+Urinary tract infection	pneumonia	1	0.7041629275170906	13
+Lung diseases	pneumonia	1	0.8133475887610566	14
+Epileptic drop attack	Hyperbilirubinemia	1	0.7041629275170906	15
+Epileptic drop attack	Optic Neuritis	1	0.8133475887610566	16
+Iridocyclitis	Optic Neuritis	1	0.7041629275170906	17
+gingivitis	pneumonia	1	0.7041629275170906	18
+Wilm's tumor	neuroblastoma	1	0.5666065223658278	19
+rupatadine	doxofylline	2	0.6653996423796518	20
+rupatadine	cyproheptadine	2	0.8326998211898259	21
+doxofylline	cyproheptadine	2	0.6653996423796518	22
+penicillin-v-potassium	amoxicillin	2	0.8326998211898259	23
+amoxicillin	esomeprazole	2	0.8326998211898259	24
+amoxicillin	pantoprazole	2	0.8326998211898259	25
+dacarbazine	Anakinra	2	0.6653996423796518	26
+dacarbazine	ruxolitinib	2	0.7348354902219298	27
+dacarbazine	vincristine	2	0.7348354902219298	28
+dorzolamide	ofloxacin	2	0.8326998211898259	29
+niacin	gemfibrozil	2	0.7348354902219298	30
+niacin	prazosin	2	0.5303290195561403	31
+gemfibrozil	prazosin	2	0.5303290195561403	32
+esomeprazole	glucosamine	2	0.8326998211898259	33
+esomeprazole	pantoprazole	2	0.8326998211898259	34
+ciclopirox	Acetohydroxamic Acid	2	0.7348354902219298	35
+ciclopirox	Phenazopyridine	2	0.7348354902219298	36
+trazodone	diflunisal	2	0.6115410145409773	37
+trazodone	levetiracetam	2	0.6115410145409773	38
+trazodone	Hydromorphone	2	0.6115410145409773	39
+Acetohydroxamic Acid	Phenazopyridine	2	0.8326998211898259	40
+diflunisal	levetiracetam	2	0.6115410145409773	41
+diflunisal	Hydromorphone	2	0.7348354902219298	42
+levetiracetam	Hydromorphone	2	0.6115410145409773	43
+Anakinra	ruxolitinib	2	0.6653996423796518	44
+Anakinra	vincristine	2	0.6653996423796518	45
+ruxolitinib	vincristine	2	0.7348354902219298	46
