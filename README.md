@@ -84,16 +84,29 @@ Genetic and molecular interaction data
 If you use this work, please cite:
 
 @article{CESKOUTSE2024112638,
-title = {HeteroKGRep: Heterogeneous Knowledge Graph based Drug Repositioning},
-journal = {Knowledge-Based Systems},
-volume = {305},
-pages = {112638},
-year = {2024},
-issn = {0950-7051},
-doi = {https://doi.org/10.1016/j.knosys.2024.112638},
-url = {https://www.sciencedirect.com/science/article/pii/S0950705124012723},
-author = {Ribot Fleury T. Ceskoutsé and Alain Bertrand Bomgni and David R. Gnimpieba Zanfack and Diing D.M. Agany and Bouetou Bouetou Thomas and Etienne Gnimpieba Zohim},
-keywords = {Deep learning, Drug repurposing, Biomedical heterogeneous graph},
-abstract = {The process of developing new drugs is both time-consuming and costly, often taking over a decade and billions of dollars to obtain regulatory approval. Additionally, the complexity of patent protection for novel compounds presents challenges for pharmaceutical innovation. Drug repositioning offers an alternative strategy to uncover new therapeutic uses for existing medicines. Previous repositioning models have been limited by their reliance on homogeneous data sources, failing to leverage the rich information available in heterogeneous biomedical knowledge graphs. We propose HeteroKGRep, a novel drug repositioning model that utilizes heterogeneous graphs to address these limitations. HeteroKGRep is a multi-step framework that first generates a similarity graph from hierarchical concept relations. It then applies SMOTE over-sampling to address class imbalance before generating node sequences using a heterogeneous graph neural network. Drug and disease embeddings are extracted from the network and used for prediction. We evaluated HeteroKGRep on a graph containing biomedical concepts and relations from ontologies, pathways and literature. It achieved state-of-the-art performance with 99% accuracy, 95% AUC ROC and 94% average precision on predicting repurposing opportunities. Compared to existing homogeneous approaches, HeteroKGRep leverages diverse knowledge sources to enrich representation learning. Based on heterogeneous graphs, HeteroKGRep can discover new drug-disease associations, leveraging de novo drug development. This work establishes a promising new paradigm for knowledge-guided drug repositioning using multimodal biomedical data.}
+
+      title = {HeteroKGRep: Heterogeneous Knowledge Graph based Drug Repositioning},
+
+      journal = {Knowledge-Based Systems},
+
+      volume = {305},
+
+      pages = {112638},
+
+      year = {2024},
+
+      issn = {0950-7051},
+
+      doi = {https://doi.org/10.1016/j.knosys.2024.112638},
+
+      url = {https://www.sciencedirect.com/science/article/pii/S0950705124012723},
+
+      author = {Ribot Fleury T. Ceskoutsé and Alain Bertrand Bomgni and David R. Gnimpieba Zanfack and Diing D.M. Agany and Bouetou Bouetou Thomas and Etienne Gnimpieba Zohim},
+
+      keywords = {Deep learning, Drug repurposing, Biomedical heterogeneous graph},
+
+      abstract = {The process of developing new drugs is both time-consuming and costly, often taking over a decade and billions of dollars to obtain regulatory approval. Additionally, the complexity of patent                     protection for novel compounds presents challenges for pharmaceutical innovation. Drug repositioning offers an alternative strategy to uncover new therapeutic uses for existing medicines.                         Previous repositioning models have been limited by their reliance on homogeneous data sources, failing to leverage the rich information available in heterogeneous biomedical knowledge graphs.                     We propose HeteroKGRep, a novel drug repositioning model that utilizes heterogeneous graphs to address these limitations. HeteroKGRep is a multi-step framework that first generates a similarity                   graph from hierarchical concept relations. It then applies SMOTE over-sampling to address class imbalance before generating node sequences using a heterogeneous graph neural network. Drug and                     disease embeddings are extracted from the network and used for prediction. We evaluated HeteroKGRep on a graph containing biomedical concepts and relations from ontologies, pathways and                           literature. It achieved state-of-the-art performance with 99% accuracy, 95% AUC ROC and 94% average precision on predicting repurposing opportunities. Compared to existing homogeneous                             approaches, HeteroKGRep leverages diverse knowledge sources to enrich representation learning. Based on heterogeneous graphs, HeteroKGRep can discover new drug-disease associations, leveraging                    de novo drug development. This work establishes a promising new paradigm for knowledge-guided drug repositioning using multimodal biomedical data.
+                  }
+                  
 }
 
