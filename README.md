@@ -52,3 +52,29 @@ scikit-learn
 imbalanced-learn (for SMOTE)
 
 XGBoost
+
+## Files
+
+HeteroKGRep.ipynb → Main model training and evaluation
+
+graph_augmentation.py → SMOTE-based graph augmentation
+
+node_sequence.py → Random walk sequence generation
+
+hetero_gnn.py → Heterogeneous GNN model
+
+predict_xgboost.py → Association prediction
+
+data/ → Biomedical knowledge graph data and processed embeddings
+
+## Dataset
+
+The knowledge graph integrates multiple biomedical data sources:
+
+Ontologies (e.g., DrugBank, DO)
+
+Biological pathways
+
+Literature-based associations
+
+Genetic and molecular interaction data
