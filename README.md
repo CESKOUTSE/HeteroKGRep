@@ -33,3 +33,22 @@ Trains an XGBoost classifier on learned embeddings to predict novel drug–disea
 
 ## Model Architecture
 ![HeteroKGRep Architecture](HeteroKGRep-model.png)
+
+## Setup
+Clone the repository and navigate to the project directory:
+git clone https://github.com/CESKOUTSE/HeteroKGRep.git
+cd HeteroKGRep
+
+#### Requirements:
+
+Python 3.8+
+
+PyTorch >= 1.10
+
+DGL (Deep Graph Library)
+
+scikit-learn
+
+imbalanced-learn (for SMOTE)
+
+XGBoost
