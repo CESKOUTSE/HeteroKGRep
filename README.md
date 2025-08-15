@@ -110,3 +110,18 @@ If you use this work, please cite:
                   
 }
 
+## Performance
+
+HeteroKGRep achieves:
+
+Accuracy: 99%
+
+AUC ROC: 95%
+
+Average Precision: 94%
+
+These results outperform state-of-the-art homogeneous graph-based approaches in drug repositioning.
+
+## License
+
+This project is licensed under the MIT License.
