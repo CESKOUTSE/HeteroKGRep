@@ -30,3 +30,5 @@ Extracts embeddings capturing semantic and structural relationships.
 #### Step 4 — Association Prediction with XGBoost
 
 Trains an XGBoost classifier on learned embeddings to predict novel drug–disease associations.
+
+## Model Architecture
