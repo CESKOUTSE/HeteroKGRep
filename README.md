@@ -32,3 +32,4 @@ Extracts embeddings capturing semantic and structural relationships.
 Trains an XGBoost classifier on learned embeddings to predict novel drug–disease associations.
 
 ## Model Architecture
+![HeteroKGRep Architecture](HeteroKGRep-model.png)
