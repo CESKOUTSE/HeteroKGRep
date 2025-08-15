@@ -6,3 +6,27 @@ The official code implementation for HeteroKGRep from our paper:
 
 HeteroKGRep is a drug repositioning framework that leverages heterogeneous biomedical knowledge graphs to discover novel drug–disease associations.
 Unlike existing methods based on homogeneous data sources, HeteroKGRep integrates multimodal biomedical information (ontologies, pathways, literature, genetic data) to enrich representation learning and improve prediction accuracy.
+
+## Pipeline Overview
+
+#### Step 1 — SMOTE-based Graph Augmentation
+
+Handles entity distribution imbalance in the heterogeneous knowledge graph.
+
+Generates synthetic nodes and edges while preserving the graph structure.
+
+#### Step 2 — Node Sequence Generation
+
+Performs random walks to capture local and global structural context.
+
+Learns entity embeddings from augmented graph structure.
+
+#### Step 3 — HeteroGNN Representation Learning
+
+Uses type-specific MLP modules for drugs, diseases, and other biomedical entities.
+
+Extracts embeddings capturing semantic and structural relationships.
+
+#### Step 4 — Association Prediction with XGBoost
+
+Trains an XGBoost classifier on learned embeddings to predict novel drug–disease associations.
