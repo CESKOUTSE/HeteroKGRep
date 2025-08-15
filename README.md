@@ -78,3 +78,17 @@ Biological pathways
 Literature-based associations
 
 Genetic and molecular interaction data
+
+## Citation
+
+If you use this work, please cite:
+@article{ceskoutse2024heterokgrep,
+  title={Heterogeneous Knowledge Graph based Drug Repositioning},
+  author={Ceskouts{\'e}, Ribot Fleury T and Bomgni, Alain Bertrand and Zanfack, David R Gnimpieba and Agany, Diing DM and Bouetou, Thomas Bouetou and Zohim, Etienne Gnimpieba},
+  journal={Knowledge-Based Systems},
+  volume={305},
+  pages={112638},
+  year={2024},
+  publisher={Elsevier}
+}
+
